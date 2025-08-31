@@ -1,0 +1,1 @@
+.\jmeter -n -t c:\Users\SK\apache-jmeter-5.6.3\cinema_test4.jmx -l c:\Users\SK\apache-jmeter-5.6.3\log\test4.log -e -o c:\Users\SK\apache-jmeter-5.6.3\result
